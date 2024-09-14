@@ -2,8 +2,8 @@ A Python-based project for performing topic modeling using Latent Dirichlet Allo
 
 Key Features:
 
--Text preprocessing (tokenization, stopword removal, bigram/trigram generation).
--Topic modeling using Gensim's LDA.
--Coherence score evaluation for model quality assessment.
--Visualizations with word clouds and pyLDAvis for model insights.
--Output of results as text files and HTML visualizations.
+- Text preprocessing (tokenization, stopword removal, bigram/trigram generation).
+- Topic modeling using Gensim's LDA.
+- Coherence score evaluation for model quality assessment.
+- Visualizations with word clouds and pyLDAvis for model insights.
+- Output of results as text files and HTML visualizations.
